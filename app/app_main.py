@@ -1,4 +1,4 @@
-from funciones import()
+#from funciones import()
 
 def concecionaria_app (matriz: list[list]) ->None:
         

@@ -1,4 +1,4 @@
-from .funciones import ()
+#from .funciones import ()
 
 
 from UTN_Heroes_Dataset .utn_pp  import (
